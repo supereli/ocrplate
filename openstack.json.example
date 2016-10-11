@@ -1,0 +1,21 @@
+{
+  "Type": "Notification",
+  "Subject": "Openstack Image Notification",
+  "Message": "{\"Records\":[{\"s3\":{\"bucket\":{\"name\":\"images\"},\"object\":{\"key\":\"inbox/BioPhoto.jpg\"}}}]}",
+  "endpoint_port":"8080",
+  "endpoint":"endpoint.domain.com",
+  "swift_user":"user_name",
+  "swift_pass":"secret_password",
+  "swift_project_id":"relevant_swift_project",
+  "cluster":"iron_cluster_name_or_id",
+  "aws_access_key":"insert_aws_access_key",
+  "aws_secret_key":"insert_aws_secret_key",
+  "publish_key":"insert_publish_key",
+  "subscribe_key":"insert_subscribe_key",
+  "dockerimage":"dockerusername/codepackage",
+  "token":"Iron_OAuth_token_here",
+  "projectid":"Iron_ProjectID_here",
+  "detect_image":"dockerusername/codepackage",
+  "aws_s3_bucket":"Bucket_name",
+  "endpoint_url":"endpoint.domain.com:port"
+}

@@ -1,0 +1,64 @@
+2016-10-11 15:53:35.861761: File: inbox/01.jpg Time: 2016-10-11 22:53:35+00:00
+2016-10-11 15:53:35.862123: {'inbox/01.jpg': datetime.datetime(2016, 10, 11, 22, 53, 35, tzinfo=tzutc())}
+2016-10-11 15:53:35.862491: {"tasks": [{"label":"01.jpg","code_name":"supereli/newlicensep", "cluster":"mem1", "payload":"{\"imageUrl\": \"http://southsf.dactbc.com:8080/LicensePlates/inbox/01.jpg\"}"}]}
+2016-10-11 15:53:37.272327: {"tasks":[{"id":"57fd6d714936180007747c05"}],"msg":"Queued up"}
+2016-10-11 15:53:42.029329: File: inbox/02.JPG Time: 2016-10-11 22:53:40+00:00
+2016-10-11 15:53:42.029556: {'inbox/02.JPG': datetime.datetime(2016, 10, 11, 22, 53, 40, tzinfo=tzutc()), 'inbox/01.jpg': datetime.datetime(2016, 10, 11, 22, 53, 35, tzinfo=tzutc())}
+2016-10-11 15:53:42.030610: {"tasks": [{"label":"02.JPG","code_name":"supereli/newlicensep", "cluster":"mem1", "payload":"{\"imageUrl\": \"http://southsf.dactbc.com:8080/LicensePlates/inbox/02.JPG\"}"}]}
+2016-10-11 15:53:42.514333: {"tasks":[{"id":"57fd6d763d90df00061aba06"}],"msg":"Queued up"}
+2016-10-11 15:55:58.931828: File: inbox/03.jpg Time: 2016-10-11 22:55:57+00:00
+2016-10-11 15:55:58.932140: {'inbox/02.JPG': datetime.datetime(2016, 10, 11, 22, 53, 40, tzinfo=tzutc()), 'inbox/01.jpg': datetime.datetime(2016, 10, 11, 22, 53, 35, tzinfo=tzutc()), 'inbox/03.jpg': datetime.datetime(2016, 10, 11, 22, 55, 57, tzinfo=tzutc())}
+2016-10-11 15:55:58.933110: {"tasks": [{"label":"03.jpg","code_name":"supereli/newlicensep", "cluster":"mem1", "payload":"{\"imageUrl\": \"http://southsf.dactbc.com:8080/LicensePlates/inbox/03.jpg\"}"}]}
+2016-10-11 15:55:59.998254: {"tasks":[{"id":"57fd6dff4936180007747d9a"}],"msg":"Queued up"}
+2016-10-11 15:56:37.742412: File: inbox/04.jpg Time: 2016-10-11 22:56:37+00:00
+2016-10-11 15:56:37.742673: {'inbox/02.JPG': datetime.datetime(2016, 10, 11, 22, 53, 40, tzinfo=tzutc()), 'inbox/01.jpg': datetime.datetime(2016, 10, 11, 22, 53, 35, tzinfo=tzutc()), 'inbox/04.jpg': datetime.datetime(2016, 10, 11, 22, 56, 37, tzinfo=tzutc()), 'inbox/03.jpg': datetime.datetime(2016, 10, 11, 22, 55, 57, tzinfo=tzutc())}
+2016-10-11 15:56:37.743665: {"tasks": [{"label":"04.jpg","code_name":"supereli/newlicensep", "cluster":"mem1", "payload":"{\"imageUrl\": \"http://southsf.dactbc.com:8080/LicensePlates/inbox/04.jpg\"}"}]}
+2016-10-11 15:56:38.237521: {"tasks":[{"id":"57fd6e263d90df00061abc1a"}],"msg":"Queued up"}
+2016-10-11 15:57:22.059424: File: inbox/05.jpg Time: 2016-10-11 22:57:20+00:00
+2016-10-11 15:57:22.059681: {'inbox/05.jpg': datetime.datetime(2016, 10, 11, 22, 57, 20, tzinfo=tzutc()), 'inbox/02.JPG': datetime.datetime(2016, 10, 11, 22, 53, 40, tzinfo=tzutc()), 'inbox/01.jpg': datetime.datetime(2016, 10, 11, 22, 53, 35, tzinfo=tzutc()), 'inbox/04.jpg': datetime.datetime(2016, 10, 11, 22, 56, 37, tzinfo=tzutc()), 'inbox/03.jpg': datetime.datetime(2016, 10, 11, 22, 55, 57, tzinfo=tzutc())}
+2016-10-11 15:57:22.060656: {"tasks": [{"label":"05.jpg","code_name":"supereli/newlicensep", "cluster":"mem1", "payload":"{\"imageUrl\": \"http://southsf.dactbc.com:8080/LicensePlates/inbox/05.jpg\"}"}]}
+2016-10-11 15:57:23.132529: {"tasks":[{"id":"57fd6e533d90df00061abc88"}],"msg":"Queued up"}
+2016-10-11 15:58:15.432765: File: inbox/06.jpg Time: 2016-10-11 22:58:14+00:00
+2016-10-11 15:58:15.433054: {'inbox/05.jpg': datetime.datetime(2016, 10, 11, 22, 57, 20, tzinfo=tzutc()), 'inbox/04.jpg': datetime.datetime(2016, 10, 11, 22, 56, 37, tzinfo=tzutc()), 'inbox/02.JPG': datetime.datetime(2016, 10, 11, 22, 53, 40, tzinfo=tzutc()), 'inbox/01.jpg': datetime.datetime(2016, 10, 11, 22, 53, 35, tzinfo=tzutc()), 'inbox/06.jpg': datetime.datetime(2016, 10, 11, 22, 58, 14, tzinfo=tzutc()), 'inbox/03.jpg': datetime.datetime(2016, 10, 11, 22, 55, 57, tzinfo=tzutc())}
+2016-10-11 15:58:15.433958: {"tasks": [{"label":"06.jpg","code_name":"supereli/newlicensep", "cluster":"mem1", "payload":"{\"imageUrl\": \"http://southsf.dactbc.com:8080/LicensePlates/inbox/06.jpg\"}"}]}
+2016-10-11 15:58:15.984504: {"tasks":[{"id":"57fd6e87caaeaa0005f3daa9"}],"msg":"Queued up"}
+2016-10-11 15:59:13.292773: File: inbox/01.jpg Time: 2016-10-11 22:59:12+00:00
+2016-10-11 15:59:13.293026: {'inbox/05.jpg': datetime.datetime(2016, 10, 11, 22, 57, 20, tzinfo=tzutc()), 'inbox/04.jpg': datetime.datetime(2016, 10, 11, 22, 56, 37, tzinfo=tzutc()), 'inbox/02.JPG': datetime.datetime(2016, 10, 11, 22, 53, 40, tzinfo=tzutc()), 'inbox/01.jpg': datetime.datetime(2016, 10, 11, 22, 59, 12, tzinfo=tzutc()), 'inbox/06.jpg': datetime.datetime(2016, 10, 11, 22, 58, 14, tzinfo=tzutc()), 'inbox/03.jpg': datetime.datetime(2016, 10, 11, 22, 55, 57, tzinfo=tzutc())}
+2016-10-11 15:59:13.294128: {"tasks": [{"label":"01.jpg","code_name":"supereli/newlicensep", "cluster":"mem1", "payload":"{\"imageUrl\": \"http://southsf.dactbc.com:8080/LicensePlates/inbox/01.jpg\"}"}]}
+2016-10-11 15:59:14.362701: {"tasks":[{"id":"57fd6ec2caaeaa0005f3dc48"}],"msg":"Queued up"}
+2016-10-11 16:02:43.704270: File: inbox/01.jpg Time: 2016-10-11 23:02:41+00:00
+2016-10-11 16:02:43.704834: {'inbox/05.jpg': datetime.datetime(2016, 10, 11, 22, 57, 20, tzinfo=tzutc()), 'inbox/04.jpg': datetime.datetime(2016, 10, 11, 22, 56, 37, tzinfo=tzutc()), 'inbox/02.JPG': datetime.datetime(2016, 10, 11, 22, 53, 40, tzinfo=tzutc()), 'inbox/01.jpg': datetime.datetime(2016, 10, 11, 23, 2, 41, tzinfo=tzutc()), 'inbox/06.jpg': datetime.datetime(2016, 10, 11, 22, 58, 14, tzinfo=tzutc()), 'inbox/03.jpg': datetime.datetime(2016, 10, 11, 22, 55, 57, tzinfo=tzutc())}
+2016-10-11 16:02:43.705171: {"tasks": [{"label":"01.jpg","code_name":"supereli/newlicensep", "cluster":"mem1", "payload":"{\"imageUrl\": \"http://southsf.dactbc.com:8080/LicensePlates/inbox/01.jpg\"}"}]}
+2016-10-11 16:02:44.877468: {"tasks":[{"id":"57fd6f9449361800077489a1"}],"msg":"Queued up"}
+2016-10-11 16:05:47.316705: File: inbox/01.jpg Time: 2016-10-11 23:05:46+00:00
+2016-10-11 16:05:47.317651: {'inbox/05.jpg': datetime.datetime(2016, 10, 11, 22, 57, 20, tzinfo=tzutc()), 'inbox/04.jpg': datetime.datetime(2016, 10, 11, 22, 56, 37, tzinfo=tzutc()), 'inbox/02.JPG': datetime.datetime(2016, 10, 11, 22, 53, 40, tzinfo=tzutc()), 'inbox/01.jpg': datetime.datetime(2016, 10, 11, 23, 5, 46, tzinfo=tzutc()), 'inbox/06.jpg': datetime.datetime(2016, 10, 11, 22, 58, 14, tzinfo=tzutc()), 'inbox/03.jpg': datetime.datetime(2016, 10, 11, 22, 55, 57, tzinfo=tzutc())}
+2016-10-11 16:05:47.317948: {"tasks": [{"label":"01.jpg","code_name":"supereli/newlicensep", "cluster":"mem1", "payload":"{\"imageUrl\": \"http://southsf.dactbc.com:8080/LicensePlates/inbox/01.jpg\"}"}]}
+2016-10-11 16:05:48.469253: {"tasks":[{"id":"57fd704ccaaeaa0005f3e839"}],"msg":"Queued up"}
+2016-10-11 16:08:12.097481: File: inbox/02.JPG Time: 2016-10-11 23:08:10+00:00
+2016-10-11 16:08:12.097749: {'inbox/05.jpg': datetime.datetime(2016, 10, 11, 22, 57, 20, tzinfo=tzutc()), 'inbox/04.jpg': datetime.datetime(2016, 10, 11, 22, 56, 37, tzinfo=tzutc()), 'inbox/02.JPG': datetime.datetime(2016, 10, 11, 23, 8, 10, tzinfo=tzutc()), 'inbox/01.jpg': datetime.datetime(2016, 10, 11, 23, 5, 46, tzinfo=tzutc()), 'inbox/06.jpg': datetime.datetime(2016, 10, 11, 22, 58, 14, tzinfo=tzutc()), 'inbox/03.jpg': datetime.datetime(2016, 10, 11, 22, 55, 57, tzinfo=tzutc())}
+2016-10-11 16:08:12.098871: {"tasks": [{"label":"02.JPG","code_name":"supereli/newlicensep", "cluster":"mem1", "payload":"{\"imageUrl\": \"http://southsf.dactbc.com:8080/LicensePlates/inbox/02.JPG\"}"}]}
+2016-10-11 16:08:13.250643: {"tasks":[{"id":"57fd70ddcaaeaa0005f3ebaa"}],"msg":"Queued up"}
+2016-10-11 16:10:52.242742: File: inbox/04.jpg Time: 2016-10-11 23:10:51+00:00
+2016-10-11 16:10:52.242949: {'inbox/05.jpg': datetime.datetime(2016, 10, 11, 22, 57, 20, tzinfo=tzutc()), 'inbox/04.jpg': datetime.datetime(2016, 10, 11, 23, 10, 51, tzinfo=tzutc()), 'inbox/02.JPG': datetime.datetime(2016, 10, 11, 23, 8, 10, tzinfo=tzutc()), 'inbox/01.jpg': datetime.datetime(2016, 10, 11, 23, 5, 46, tzinfo=tzutc()), 'inbox/06.jpg': datetime.datetime(2016, 10, 11, 22, 58, 14, tzinfo=tzutc()), 'inbox/03.jpg': datetime.datetime(2016, 10, 11, 22, 55, 57, tzinfo=tzutc())}
+2016-10-11 16:10:52.243867: {"tasks": [{"label":"04.jpg","code_name":"supereli/newlicensep", "cluster":"mem1", "payload":"{\"imageUrl\": \"http://southsf.dactbc.com:8080/LicensePlates/inbox/04.jpg\"}"}]}
+2016-10-11 16:10:53.445665: {"tasks":[{"id":"57fd717dcaaeaa0005f3ef8c"}],"msg":"Queued up"}
+2016-10-11 16:15:27.517708: File: inbox/06.jpg Time: 2016-10-11 23:15:26+00:00
+2016-10-11 16:15:27.517940: {'inbox/05.jpg': datetime.datetime(2016, 10, 11, 22, 57, 20, tzinfo=tzutc()), 'inbox/04.jpg': datetime.datetime(2016, 10, 11, 23, 10, 51, tzinfo=tzutc()), 'inbox/02.JPG': datetime.datetime(2016, 10, 11, 23, 8, 10, tzinfo=tzutc()), 'inbox/01.jpg': datetime.datetime(2016, 10, 11, 23, 5, 46, tzinfo=tzutc()), 'inbox/06.jpg': datetime.datetime(2016, 10, 11, 23, 15, 26, tzinfo=tzutc()), 'inbox/03.jpg': datetime.datetime(2016, 10, 11, 22, 55, 57, tzinfo=tzutc())}
+2016-10-11 16:15:27.519143: {"tasks": [{"label":"06.jpg","code_name":"supereli/newlicensep", "cluster":"mem1", "payload":"{\"imageUrl\": \"http://southsf.dactbc.com:8080/LicensePlates/inbox/06.jpg\"}"}]}
+2016-10-11 16:15:28.670819: {"tasks":[{"id":"57fd72903d90df00061ad76a"}],"msg":"Queued up"}
+2016-10-11 16:16:13.405378: File: inbox/03.jpg Time: 2016-10-11 23:16:12+00:00
+2016-10-11 16:16:13.405836: {'inbox/05.jpg': datetime.datetime(2016, 10, 11, 22, 57, 20, tzinfo=tzutc()), 'inbox/04.jpg': datetime.datetime(2016, 10, 11, 23, 10, 51, tzinfo=tzutc()), 'inbox/02.JPG': datetime.datetime(2016, 10, 11, 23, 8, 10, tzinfo=tzutc()), 'inbox/01.jpg': datetime.datetime(2016, 10, 11, 23, 5, 46, tzinfo=tzutc()), 'inbox/06.jpg': datetime.datetime(2016, 10, 11, 23, 15, 26, tzinfo=tzutc()), 'inbox/03.jpg': datetime.datetime(2016, 10, 11, 23, 16, 12, tzinfo=tzutc())}
+2016-10-11 16:16:13.406114: {"tasks": [{"label":"03.jpg","code_name":"supereli/newlicensep", "cluster":"mem1", "payload":"{\"imageUrl\": \"http://southsf.dactbc.com:8080/LicensePlates/inbox/03.jpg\"}"}]}
+2016-10-11 16:16:13.974703: {"tasks":[{"id":"57fd72bdcaaeaa0005f3f4e3"}],"msg":"Queued up"}
+2016-10-11 16:22:01.080029: File: inbox/02.JPG Time: 2016-10-11 23:22:00+00:00
+2016-10-11 16:22:01.080321: {'inbox/05.jpg': datetime.datetime(2016, 10, 11, 22, 57, 20, tzinfo=tzutc()), 'inbox/04.jpg': datetime.datetime(2016, 10, 11, 23, 10, 51, tzinfo=tzutc()), 'inbox/02.JPG': datetime.datetime(2016, 10, 11, 23, 22, tzinfo=tzutc()), 'inbox/01.jpg': datetime.datetime(2016, 10, 11, 23, 5, 46, tzinfo=tzutc()), 'inbox/06.jpg': datetime.datetime(2016, 10, 11, 23, 15, 26, tzinfo=tzutc()), 'inbox/03.jpg': datetime.datetime(2016, 10, 11, 23, 16, 12, tzinfo=tzutc())}
+2016-10-11 16:22:01.081332: {"tasks": [{"label":"02.JPG","code_name":"supereli/newlicensep", "cluster":"mem1", "payload":"{\"imageUrl\": \"http://southsf.dactbc.com:8080/LicensePlates/inbox/02.JPG\"}"}]}
+2016-10-11 16:22:02.214554: {"tasks":[{"id":"57fd741a3d90df00061addc1"}],"msg":"Queued up"}
+2016-10-11 16:27:32.353917: File: inbox/08.jpg Time: 2016-10-11 23:27:31+00:00
+2016-10-11 16:27:32.354256: {'inbox/05.jpg': datetime.datetime(2016, 10, 11, 22, 57, 20, tzinfo=tzutc()), 'inbox/04.jpg': datetime.datetime(2016, 10, 11, 23, 10, 51, tzinfo=tzutc()), 'inbox/02.JPG': datetime.datetime(2016, 10, 11, 23, 22, tzinfo=tzutc()), 'inbox/01.jpg': datetime.datetime(2016, 10, 11, 23, 5, 46, tzinfo=tzutc()), 'inbox/06.jpg': datetime.datetime(2016, 10, 11, 23, 15, 26, tzinfo=tzutc()), 'inbox/08.jpg': datetime.datetime(2016, 10, 11, 23, 27, 31, tzinfo=tzutc()), 'inbox/03.jpg': datetime.datetime(2016, 10, 11, 23, 16, 12, tzinfo=tzutc())}
+2016-10-11 16:27:32.355279: {"tasks": [{"label":"08.jpg","code_name":"supereli/newlicensep", "cluster":"mem1", "payload":"{\"imageUrl\": \"http://southsf.dactbc.com:8080/LicensePlates/inbox/08.jpg\"}"}]}
+2016-10-11 16:27:33.451389: {"tasks":[{"id":"57fd7565493618000774a7d7"}],"msg":"Queued up"}
+2016-10-11 16:28:13.704515: File: inbox/02.JPG Time: 2016-10-11 23:28:13+00:00
+2016-10-11 16:28:13.704806: {'inbox/05.jpg': datetime.datetime(2016, 10, 11, 22, 57, 20, tzinfo=tzutc()), 'inbox/04.jpg': datetime.datetime(2016, 10, 11, 23, 10, 51, tzinfo=tzutc()), 'inbox/02.JPG': datetime.datetime(2016, 10, 11, 23, 28, 13, tzinfo=tzutc()), 'inbox/01.jpg': datetime.datetime(2016, 10, 11, 23, 5, 46, tzinfo=tzutc()), 'inbox/06.jpg': datetime.datetime(2016, 10, 11, 23, 15, 26, tzinfo=tzutc()), 'inbox/08.jpg': datetime.datetime(2016, 10, 11, 23, 27, 31, tzinfo=tzutc()), 'inbox/03.jpg': datetime.datetime(2016, 10, 11, 23, 16, 12, tzinfo=tzutc())}
+2016-10-11 16:28:13.705771: {"tasks": [{"label":"02.JPG","code_name":"supereli/newlicensep", "cluster":"mem1", "payload":"{\"imageUrl\": \"http://southsf.dactbc.com:8080/LicensePlates/inbox/02.JPG\"}"}]}
+2016-10-11 16:28:14.193389: {"tasks":[{"id":"57fd758e493618000774a9b6"}],"msg":"Queued up"}
